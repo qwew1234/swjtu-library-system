@@ -30,8 +30,7 @@
 #### **运行截图**
 | 查询与借阅 | 选择复本 | 我的借阅记录 |
 | :---: | :---: | :---: |
-| **【在此处替换为您的截图链接或图片】**<br>![图书查询与借阅](https://via.placeholder.com/400x250.png?text=Reader+Book+Search) | **【在此处替换为您的截图链接或图片】**<br>![选择复本](https://via.placeholder.com/400x250.png?text=Select+Book+Instance) | **【在此处替换为您的截图链接或图片】**<br>![我的借阅](https://via.placeholder.com/400x250.png?text=My+Borrow+Records) |
-
+| ![读者段借阅与查询](https://github.com/user-attachments/assets/3a78f3c5-6e6b-46e5-91ce-dcb63ebf32f9) | ![读者段选择副本](https://github.com/user-attachments/assets/9fe3b69d-4e94-4bf2-aa2f-96bc7099ee43) | ![读者段借阅记录](https://github.com/user-attachments/assets/291a4871-d529-4d7b-acaa-8b19b1d93157) |
 
 ### 2.2 管理员端核心功能
 
@@ -44,7 +43,7 @@
 #### **运行截图**
 | 图书类别管理 | 复本入库管理 | 读者管理 |
 | :---: | :---: | :---: |
-| **【在此处替换为您的截图链接或图片】**<br>![图书管理](https://via.placeholder.com/400x250.png?text=Admin+Book+Management) | **【在此处替换为您的截图链接或图片】**<br>![复本管理](https://via.placeholder.com/400x250.png?text=Instance+Management) | **【在此处替换为您的截图链接或图片】**<br>![读者管理](https://via.placeholder.com/400x250.png?text=Reader+Management) |
+| ![图书类别管理](https://github.com/user-attachments/assets/e1473984-27b7-429a-b1e5-84f135b38997) | ![复本入库管理](https://github.com/user-attachments/assets/7132fd45-7499-43a6-aefd-712144df9d6e) | ![读者管理](https://github.com/user-attachments/assets/e61d7592-5392-405f-9cac-7ce51c1dba8b) |
 
 ---
 
